@@ -340,7 +340,7 @@ This project is for educational purposes only. Election data is publicly availab
 
 For questions, improvements, or collaboration:
 - Open an issue on GitHub
-- Email: [your-email]
+- Email: prasannarajan698@gmail.com
 
 ---
 
