@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+*.pkl
+data/processed_election_data.csv
+data/predicted_2026_results.csv
